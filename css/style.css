@@ -1,0 +1,144 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+.aside{
+
+}
+.contact{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.contact-header{
+    border: 3px solid black;
+    text-align: center;
+    background-color: blue;
+    padding: 10px;
+    
+}
+.sidebar{
+    border: 3px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: blue;
+}
+.content-1{
+    border: 3px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: blue;
+}
+.content-2{
+    border: 3px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: blue;
+}
+.content-3{
+    border: 3px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: blue;
+}
+.footer{
+    border: 3px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: blue;
+    text-align: center;
+} */
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+.aside{
+    color: #fff;
+    gap: 3;
+
+}
+.contact-header{
+    border: 5px solid black;
+    background-color: rgb(83, 83, 247);
+    text-align: center;
+    margin-top: 15px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.contact{
+    margin-top: 5px;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+}
+.sidebar{
+    border: 5px solid black;
+    background-color: rgb(140, 140, 224);
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.content-1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    width: 100%;
+    height: 200px;
+    margin-left: 20px;
+    background-color: rgb(97, 97, 248);
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.main{
+    margin-top: 15px;
+    padding: 15px;
+    border: 5px solid black;
+    background-color: blue;
+    margin-left: 18.5%;
+    margin-right: 50%;
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+}
+.footer{
+    border: 5px solid black;
+    text-align: center;
+    margin-top: 5px;
+    padding: 15px;
+    background-color: blue;
+    margin: 15px;
+    border-radius: 5px;
+    
+}
+.content-3{
+    border: 5px solid black;
+    background-color: blue;
+    margin-left: 50%;
+    width: 300px;
+    height: 300px;
+    margin-top: 15px;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
